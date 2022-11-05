@@ -32,7 +32,7 @@ class Solution {
         }
 
         ArrayList<ArrayList<Integer> > transpose = new ArrayList<ArrayList<Integer> >();
-		        // ArrayList<ArrayList<Integer> > ans = new ArrayList<ArrayList<Integer> >();
+		        // ArrayList<ArrayList<Integer> > ans = new ArrayList<ArrayList<Integer>>();
 
 		for (int i = 0; i < n; i++) 
 			transpose.add(new ArrayList<Integer>());
